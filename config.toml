@@ -1,0 +1,20 @@
+baseurl = "https://blog.bsky.moe"
+languageCode = "en-US"
+title = "67 79 77 80 85 84 69 82 32 71 82 65 80 72 73 67 83"
+
+disableLiveReload = false
+enableRobotsTXT = true
+paginate = 11
+sectionPagesMenu = "main"
+
+theme = "after-dark"
+
+[params]
+  hide_author = true
+  powered_by = false
+
+[params.layout.menu.main]
+  hidden = true
+
+[markup.highlight]
+  noClasses = false
