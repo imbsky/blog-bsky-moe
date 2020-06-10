@@ -1,7 +1,7 @@
 +++
 title = "Do NOT use cheap USB-C cables for the Blackmagic Pocket Cinema Camera"
 date = 2020-06-02T02:23:32+09:00
-description = "Otherwise, people will make fun of you, and you will pay for extra costs."
+description = "It's often said that a half-truth is worse than a lie."
 draft = false
 +++
 
