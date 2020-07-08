@@ -1,1 +1,1 @@
-# blog-bsky-moe
+# blog
